@@ -1,102 +1,16 @@
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe.config
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.pdb
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\BEPUphysics.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\Fusion.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.D3DCompiler.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XAudio2.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.Direct3D11.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DXGI.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XInput.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DirectInput.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.RawInput.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\bin\x64\Debug\BEPUutilities.dll
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.csprojResolveAssemblyReference.cache
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.exe
-c:\users\dns-shop\documents\visual studio 2012\Projects\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.pdb
-D:\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe.config
-D:\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.exe
-D:\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.pdb
-D:\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe
-D:\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.pdb
-D:\Overpopulated\Overpopulated\bin\x64\Debug\BEPUphysics.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\Fusion.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.D3DCompiler.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XAudio2.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.Direct3D11.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DXGI.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XInput.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DirectInput.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.RawInput.dll
-D:\Overpopulated\Overpopulated\bin\x64\Debug\BEPUutilities.dll
-D:\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.csprojResolveAssemblyReference.cache
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe.config
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.pdb
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\BEPUphysics.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\Fusion.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.D3DCompiler.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XAudio2.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.Direct3D11.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DXGI.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XInput.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DirectInput.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.RawInput.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\bin\x64\Debug\BEPUutilities.dll
-C:\Users\user\Downloads\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.csprojResolveAssemblyReference.cache
-C:\Users\user\Downloads\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.exe
-C:\Users\user\Downloads\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.pdb
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe.config
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.pdb
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\BEPUphysics.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Fusion.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.D3DCompiler.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XAudio2.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.Direct3D11.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DXGI.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XInput.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DirectInput.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.RawInput.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\BEPUutilities.dll
-C:\Users\user\Desktop\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.exe
-C:\Users\user\Desktop\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.pdb
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe.config
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.pdb
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\BEPUphysics.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\Fusion.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.D3DCompiler.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XAudio2.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.Direct3D11.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DXGI.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XInput.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DirectInput.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.RawInput.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\bin\x64\Debug\BEPUutilities.dll
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.csprojResolveAssemblyReference.cache
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.exe
-C:\Users\magistr\Desktop\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.pdb
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe.config
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.pdb
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\BEPUphysics.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\Fusion.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.D3DCompiler.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XAudio2.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.Direct3D11.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DXGI.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XInput.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DirectInput.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.RawInput.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\bin\x64\Debug\BEPUutilities.dll
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.csprojResolveAssemblyReference.cache
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.exe
-C:\Users\magistr\Desktop\Overpop2\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.pdb
+d:\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe.config
+d:\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.exe
+d:\Overpopulated\Overpopulated\bin\x64\Debug\Overpopulated.pdb
+d:\Overpopulated\Overpopulated\bin\x64\Debug\BEPUphysics.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\Fusion.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XAudio2.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.Direct3D11.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.DXGI.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.XInput.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.RawInput.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\SharpDX.D3DCompiler.dll
+d:\Overpopulated\Overpopulated\bin\x64\Debug\BEPUutilities.dll
+d:\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.csprojResolveAssemblyReference.cache
+d:\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.exe
+d:\Overpopulated\Overpopulated\obj\x64\Debug\Overpopulated.pdb

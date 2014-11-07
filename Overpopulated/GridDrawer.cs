@@ -492,7 +492,7 @@ namespace Overpopulated
 								tileSize * td.GetSize(),
 								tileSize * td.GetSize(),
 								0,
-								Color.White 
+								Color.White
 							);
 
 							// draw tile text:

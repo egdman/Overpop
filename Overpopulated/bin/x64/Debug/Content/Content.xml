@@ -4,6 +4,7 @@
     <Path>debugFont.tga</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -12,13 +13,15 @@
     <Normal>false</Normal>
     <Compression>RGB</Compression>
   </Descriptor>
-  <Descriptor xsi:type="UberShaderContentItem">
+  <Descriptor xsi:type="UbershaderContentItem">
     <Path>debugRender.hlsl</Path>
     <Dependencies />
     <ContentProcessor>Ubershader Compiler</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <DisableOptimization>false</DisableOptimization>
-    <PreferFlowControl>false</PreferFlowControl>
+    <OptimizationLevel>1</OptimizationLevel>
     <AvoidFlowControl>false</AvoidFlowControl>
+    <PreferFlowControl>false</PreferFlowControl>
     <MatrixPacking>RowMajor</MatrixPacking>
     <PSEntryPoint>PSMain</PSEntryPoint>
     <VSEntryPoint>VSMain</VSEntryPoint>
@@ -27,13 +30,15 @@
     <HSEntryPoint>HSMain</HSEntryPoint>
     <CSEntryPoint>CSMain</CSEntryPoint>
   </Descriptor>
-  <Descriptor xsi:type="UberShaderContentItem">
+  <Descriptor xsi:type="UbershaderContentItem">
     <Path>spriteBatch.hlsl</Path>
     <Dependencies />
     <ContentProcessor>Ubershader Compiler</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <DisableOptimization>false</DisableOptimization>
-    <PreferFlowControl>false</PreferFlowControl>
+    <OptimizationLevel>1</OptimizationLevel>
     <AvoidFlowControl>false</AvoidFlowControl>
+    <PreferFlowControl>false</PreferFlowControl>
     <MatrixPacking>RowMajor</MatrixPacking>
     <PSEntryPoint>PSMain</PSEntryPoint>
     <VSEntryPoint>VSMain</VSEntryPoint>
@@ -46,78 +51,7 @@
     <Path>bl_boy.jpg</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
-    <NoMips>false</NoMips>
-    <Fast>false</Fast>
-    <ToNormal>false</ToNormal>
-    <Color>true</Color>
-    <Alpha>false</Alpha>
-    <Normal>false</Normal>
-    <Compression>RGB</Compression>
-  </Descriptor>
-  <Descriptor xsi:type="ImageContentItem">
-    <Path>bl_girl.jpg</Path>
-    <Dependencies />
-    <ContentProcessor>Image Processor</ContentProcessor>
-    <NoMips>false</NoMips>
-    <Fast>false</Fast>
-    <ToNormal>false</ToNormal>
-    <Color>true</Color>
-    <Alpha>false</Alpha>
-    <Normal>false</Normal>
-    <Compression>RGB</Compression>
-  </Descriptor>
-  <Descriptor xsi:type="ImageContentItem">
-    <Path>blank.jpg</Path>
-    <Dependencies />
-    <ContentProcessor>Image Processor</ContentProcessor>
-    <NoMips>false</NoMips>
-    <Fast>false</Fast>
-    <ToNormal>false</ToNormal>
-    <Color>true</Color>
-    <Alpha>false</Alpha>
-    <Normal>false</Normal>
-    <Compression>RGB</Compression>
-  </Descriptor>
-  <Descriptor xsi:type="ImageContentItem">
-    <Path>ch_boy.jpg</Path>
-    <Dependencies />
-    <ContentProcessor>Image Processor</ContentProcessor>
-    <NoMips>false</NoMips>
-    <Fast>false</Fast>
-    <ToNormal>false</ToNormal>
-    <Color>true</Color>
-    <Alpha>false</Alpha>
-    <Normal>false</Normal>
-    <Compression>RGB</Compression>
-  </Descriptor>
-  <Descriptor xsi:type="ImageContentItem">
-    <Path>ch_girl.jpg</Path>
-    <Dependencies />
-    <ContentProcessor>Image Processor</ContentProcessor>
-    <NoMips>false</NoMips>
-    <Fast>false</Fast>
-    <ToNormal>false</ToNormal>
-    <Color>true</Color>
-    <Alpha>false</Alpha>
-    <Normal>false</Normal>
-    <Compression>RGB</Compression>
-  </Descriptor>
-  <Descriptor xsi:type="ImageContentItem">
-    <Path>wh_boy.jpg</Path>
-    <Dependencies />
-    <ContentProcessor>Image Processor</ContentProcessor>
-    <NoMips>false</NoMips>
-    <Fast>false</Fast>
-    <ToNormal>false</ToNormal>
-    <Color>true</Color>
-    <Alpha>false</Alpha>
-    <Normal>false</Normal>
-    <Compression>RGB</Compression>
-  </Descriptor>
-  <Descriptor xsi:type="ImageContentItem">
-    <Path>wh_girl.jpg</Path>
-    <Dependencies />
-    <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -130,6 +64,20 @@
     <Path>bl_boy_r.jpg</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
+    <NoMips>false</NoMips>
+    <Fast>false</Fast>
+    <ToNormal>false</ToNormal>
+    <Color>true</Color>
+    <Alpha>false</Alpha>
+    <Normal>false</Normal>
+    <Compression>RGB</Compression>
+  </Descriptor>
+  <Descriptor xsi:type="ImageContentItem">
+    <Path>bl_girl.jpg</Path>
+    <Dependencies />
+    <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -142,6 +90,33 @@
     <Path>bl_girl_r.jpg</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
+    <NoMips>false</NoMips>
+    <Fast>false</Fast>
+    <ToNormal>false</ToNormal>
+    <Color>true</Color>
+    <Alpha>false</Alpha>
+    <Normal>false</Normal>
+    <Compression>RGB</Compression>
+  </Descriptor>
+  <Descriptor xsi:type="ImageContentItem">
+    <Path>blank.jpg</Path>
+    <Dependencies />
+    <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
+    <NoMips>false</NoMips>
+    <Fast>false</Fast>
+    <ToNormal>false</ToNormal>
+    <Color>true</Color>
+    <Alpha>false</Alpha>
+    <Normal>false</Normal>
+    <Compression>RGB</Compression>
+  </Descriptor>
+  <Descriptor xsi:type="ImageContentItem">
+    <Path>ch_boy.jpg</Path>
+    <Dependencies />
+    <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -154,6 +129,20 @@
     <Path>ch_boy_r.jpg</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
+    <NoMips>false</NoMips>
+    <Fast>false</Fast>
+    <ToNormal>false</ToNormal>
+    <Color>true</Color>
+    <Alpha>false</Alpha>
+    <Normal>false</Normal>
+    <Compression>RGB</Compression>
+  </Descriptor>
+  <Descriptor xsi:type="ImageContentItem">
+    <Path>ch_girl.jpg</Path>
+    <Dependencies />
+    <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -166,6 +155,20 @@
     <Path>ch_girl_r.jpg</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
+    <NoMips>false</NoMips>
+    <Fast>false</Fast>
+    <ToNormal>false</ToNormal>
+    <Color>true</Color>
+    <Alpha>false</Alpha>
+    <Normal>false</Normal>
+    <Compression>RGB</Compression>
+  </Descriptor>
+  <Descriptor xsi:type="ImageContentItem">
+    <Path>wh_boy.jpg</Path>
+    <Dependencies />
+    <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -178,6 +181,20 @@
     <Path>wh_boy_r.jpg</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
+    <NoMips>false</NoMips>
+    <Fast>false</Fast>
+    <ToNormal>false</ToNormal>
+    <Color>true</Color>
+    <Alpha>false</Alpha>
+    <Normal>false</Normal>
+    <Compression>RGB</Compression>
+  </Descriptor>
+  <Descriptor xsi:type="ImageContentItem">
+    <Path>wh_girl.jpg</Path>
+    <Dependencies />
+    <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -190,6 +207,7 @@
     <Path>wh_girl_r.jpg</Path>
     <Dependencies />
     <ContentProcessor>Image Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
     <NoMips>false</NoMips>
     <Fast>false</Fast>
     <ToNormal>false</ToNormal>
@@ -199,8 +217,15 @@
     <Compression>RGB</Compression>
   </Descriptor>
   <Descriptor xsi:type="ContentItem">
+    <Path>segoe40.bmfc</Path>
+    <Dependencies />
+    <ContentProcessor>BMFC Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
+  </Descriptor>
+  <Descriptor xsi:type="ContentItem">
     <Path>stencil.bmfc</Path>
     <Dependencies />
     <ContentProcessor>BMFC Processor</ContentProcessor>
+    <IgnoreToolChanges>false</IgnoreToolChanges>
   </Descriptor>
 </ArrayOfDescriptor>
