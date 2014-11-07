@@ -76,6 +76,8 @@ namespace Overpopulated
 
 			Texture2D blank;
 
+			Color backColor;
+
 			Frame border;
 
 			Frame scoreBoard;
@@ -130,8 +132,11 @@ namespace Overpopulated
 
 				buttonEvents   = new Queue<ButtonPressed>(){};
 
+				// coordinates of a grid:
 				x = 40;
 				y = 40;
+				// background color:
+				backColor = Color.Black;
 
 				
 				tileSize    = (int)Math.Round( (double)480 / gridSize );
@@ -395,12 +400,8 @@ namespace Overpopulated
 				// User input handling:
 				if (state == GameState.WaitUserInput) {
 
-					
-	
 					// remove all deleted tile drawers:
 					cleanUpTiles();
-
-		//			checkZS("after indep spawns");
 
 					if (buttonEvents.Count != 0) {
 						ButtonPressed btnPress = ButtonPressed.None;
@@ -446,8 +447,7 @@ namespace Overpopulated
 							enqueueSpawn(sp);
 
 						}
-
-						
+	
 					}
 				}
 
@@ -462,8 +462,24 @@ namespace Overpopulated
 				
 				var sb = Game.GetService<SpriteBatch>();
 
-				sb.Begin();
+				BlendState bs = new BlendState();
+	//			bs.SrcAlpha = Blend.SrcAlpha;
+	//			
 
+				sb.Begin(bs);
+				
+				// draw background:
+				sb.DrawSprite(
+					sb.TextureWhite,
+					x + ( tilePadding + (tileSize + tilePadding) * gridSize ) / 2, // coord x
+					y + ( tilePadding + (tileSize + tilePadding) * gridSize ) / 2, // coord y
+					tilePadding + (tileSize + tilePadding) * gridSize, // width
+					tilePadding + (tileSize + tilePadding) * gridSize, // height
+					0,  // angle
+					backColor
+				);
+
+				// draw tile texture:
 				for (int i = 0; i < gridSize; ++i) {
 					for (int j = 0; j < gridSize; ++j) {
 						Queue<TileDrawer> tileQ = tileDrawers[i, j];
@@ -481,10 +497,7 @@ namespace Overpopulated
 							0,
 							Color.White );
 #endif
-
 						foreach( var td in tileQ ) {
-
-							// draw tile texture:
 							sb.DrawSprite(
 								td.GetTexture(),
 								td.GetX(),
@@ -494,8 +507,18 @@ namespace Overpopulated
 								0,
 								Color.White
 							);
+						}
+					}
+				}
+				sb.End();
 
-							// draw tile text:
+				sb.Begin();
+				// draw tile text:
+				for (int i = 0; i < gridSize; ++i) {
+					for (int j = 0; j < gridSize; ++j) {
+						Queue<TileDrawer> tileQ = tileDrawers[i, j];
+
+						foreach( var td in tileQ ) {
 							font.DrawString(
 								sb,
 								td.GetString(),
@@ -504,7 +527,6 @@ namespace Overpopulated
 								Color.Red 
 							);
 						}
-
 					}
 				}
 
